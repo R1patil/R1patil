@@ -36,12 +36,6 @@
 
 ## 🤖 Featured Projects
 
-### 🏥 Tara — AI Medical Appointment Bot
-> WhatsApp + Exotel AI agent for medical appointment booking
-- Built with FastAPI, Redis, Google Calendar API, WhatsApp Business API
-- Deployed on Render with real-time appointment scheduling
-- Handles reschedule, cancel, and notification workflows
-
 ### 🧠 Loveable Clone using LangGraph
 > AI Software Engineer agent built with LangGraph
 - Multi-agent system with reasoning and code generation capabilities
